@@ -1,3 +1,5 @@
+**Stock Price Prediction with Machine Learning**
+
 In this project, I worked on cleaning, analyzing, and creating prediction models based on stock data. The key tasks included:
 
 - Data Cleaning: Extracted data from Yahoo Finance and handled missing values and outliers to ensure the dataset's quality.
